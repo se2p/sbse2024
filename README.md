@@ -19,3 +19,12 @@ The first chapter covers the coding examples from the first two weeks, on basic 
 This chapter covers basic evolutionary strategies and genetic algorithms.
 [Markdown Export](rendered/Evolutionary%20Search%20-%20Part%201.md)
 
+
+## Chapter 3: Evolutionary Search (Part 2)
+
+This chapter looks into the various search operators of a genetic algorithm:
+Survivor selection, parent selection, crossover, mutation, and the
+population itself. We also look at memetic algorithms, which combine
+global and local search.
+
+[Markdown Export](rendered/Evolutionary%20Search%20-%20Part%202.md)
