@@ -59,3 +59,11 @@ many objective optimisation for test generation.
 
 [Markdown Export](rendered/Search-Based%20Test%20Generation%20-%20Part%202.md)
 
+
+## Chapter 8: Parameter Tuning and Parameter Control
+
+This chapter considers how to choose values for the many parameters that we
+have introduced in our evolutionary algorithms, how to optimise these
+values, and how to adapt them to new problems.
+
+[Markdown Export](rendered/Parameter%20Control%20and%20Adaptation.md)
