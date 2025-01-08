@@ -67,3 +67,13 @@ have introduced in our evolutionary algorithms, how to optimise these
 values, and how to adapt them to new problems.
 
 [Markdown Export](rendered/Parameter%20Control%20and%20Adaptation.md)
+
+
+## Chapter 9: Genetic Programming (Part 1)
+
+This chapter introduces classic genetic programming for scenarios assuming
+type closure, and applies this to symbolic regression and spectrum-based
+fault localisation. 
+
+[Markdown Export](rendered/Genetic%20Programming%20-%20Part%201.md)
+
