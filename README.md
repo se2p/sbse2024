@@ -77,7 +77,7 @@ fault localisation.
 
 [Markdown Export](rendered/Genetic%20Programming%20-%20Part%201.md)
 
-## Chapter 11: Neuroevolution
+## Chapter 13: Neuroevolution
 
 This chapter introduces the field of Neuroevolution in which evolutionary algorithms are used to optimise artificial
 neural networks. We start with the definition of neural networks and the pole balancing problem, a popular reinforcement
